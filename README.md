@@ -1,11 +1,11 @@
 ## Natural_Language_Processing Projects
 ### This Repository provides my NLP Projects/Tips & Tricks/Implemenations and more  :fire: :fire: :fire:
 
-### This Reposirory will contains main two Folders: (`Scikit-Learn & TensorFlow` and `PyTorch`)
+#### This Reposirory will contains main two Folders: (`Scikit-Learn & TensorFlow` and `PyTorch`)
 
 ---------------------------------------------------
 
-### TensorFlow Folder contains: 👌👌👌
+#### TensorFlow Folder contains: 👌👌👌
 :pencil::books: __Full Project: Multi-text Classification for job title Dataset using Machine Learning and produce the Model as Flak API.__  <br />
 :pencil::books: __Processing Sequences and time series using RNN and CNN.__ <br />
 :pencil::books: __Building a stateless RNN to predict the next character in the sentence.__  <br />
