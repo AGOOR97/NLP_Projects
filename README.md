@@ -1,5 +1,5 @@
 ## Natural_Language_Processing Projects
-### This Repository provides my NLP Projects & Tips and Tricks & Implemenations and more  :fire: :fire: :fire:
+### This Repository provides my NLP Projects/Tips & Tricks/Implemenations and more  :fire: :fire: :fire:
 
 ### This Reposirory will contains main two Folders: (`Scikit-Learn & TensorFlow` and `PyTorch`)
 
